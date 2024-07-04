@@ -1,0 +1,1 @@
+SRVGROUP;common;dev.mygalleryview.com/;null;true
