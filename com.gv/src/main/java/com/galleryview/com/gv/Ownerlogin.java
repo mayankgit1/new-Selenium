@@ -15,7 +15,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Ownerlogin {
-	
+
 public Ownerlogin(ChromeDriver driver)  {
 	
     	ConfigReader config = new ConfigReader();    
